@@ -6,7 +6,7 @@ DESCRIPTION:  This binding provides encounter grain and alert grain (distinguish
 
 CHANGE LOG:
 __________________________________________________________________________________________________________________________
-DATE (YYYY-MM-DD)  |DATA ARCHITECT     |CHANGE DESCRIPTION
+DATE (CYYY-JJJ)  |DATA ARCHITECT     |CHANGE DESCRIPTION
 ___________________________________________________________________________________________________
 julian x.12 date    David Balkcom       Added HAR (hospital account record) unique identifier to 
                                         all 3 result sets; (EPIC.Finance.HouspitalAccount) 

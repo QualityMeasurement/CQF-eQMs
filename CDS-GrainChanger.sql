@@ -9,7 +9,7 @@ ________________________________________________________________________________
 DATE (CYYY-JJJ)  |DATA ARCHITECT     |CHANGE DESCRIPTION
 ___________________________________________________________________________________________________
 julian x.12 date    David Balkcom       Added HAR (hospital account record) unique identifier to 
-                                        all 3 result sets; (EPIC.Finance.HouspitalAccount) 
+                                        all 3 result sets; (EPIC.Finance.HospitalAccount) 
                                         PatientEncounterID was previously relied on as unique 
                                         identifier, however, a single inpatient stay can have 
                                         multiple instances of PatientEncounterID because each 
